@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "home-page": "../index/index",
+    "publish-page": "../publish/index",
+    "brain-page": "../brain/index",
+    "profile-page": "../profile/index"
+  }
+}

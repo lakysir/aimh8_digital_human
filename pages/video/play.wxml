@@ -1,0 +1,1 @@
+<view class="container"><video wx:if="{{a}}" class="video-player" src="{{b}}" controls autoplay show-center-play-btn show-fullscreen-btn binderror="{{c}}"/><txvideo wx:else class="video-player" binderror="{{d}}" u-i="475dab21-0" bind:__l="__l" u-p="{{e||''}}"/></view>

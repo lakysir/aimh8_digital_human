@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "视频详情",
+  "usingComponents": {
+    "txv-video": "plugin://tencentvideo/video"
+  }
+}

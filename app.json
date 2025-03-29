@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/main/index",
+    "pages/index/components/DoctorTab",
+    "pages/index/components/VideoTab",
+    "pages/index/index",
+    "pages/publish/index",
+    "pages/transform/index",
+    "pages/brain/index",
+    "pages/profile/index",
+    "pages/video/detail2",
+    "pages/doctor/detail",
+    "pages/publish/edit-copy",
+    "pages/register/index",
+    "pages/digtalhuman/index",
+    "pages/digtalhuman/manage",
+    "pages/digtalhuman/approve",
+    "pages/document/index",
+    "pages/document/detail",
+    "pages/login/index",
+    "pages/video/play",
+    "pages/webview/webview"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "permission": {
+    "scope.writePhotosAlbum": {
+      "desc": "保存视频到相册功能"
+    }
+  },
+  "plugins": {
+    "tencentvideo": {
+      "version": "2.5.15",
+      "provider": "wxa75efa648b60994b"
+    }
+  },
+  "usingComponents": {}
+}

@@ -1,0 +1,1 @@
+<view class="login-container data-v-dd299b8a"><view class="welcome-text data-v-dd299b8a">{{a}}</view><button class="login-btn data-v-dd299b8a" open-type="getPhoneNumber" bindgetphonenumber="{{b}}"> 手机号快捷登录 </button></view>

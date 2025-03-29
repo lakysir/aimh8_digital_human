@@ -1,0 +1,1 @@
+"use strict";const o=require("./common/vendor.js"),t={__name:"DoctorTab",props:{doctors:{type:Array,default:()=>[]}},emits:["navigate-to-doctor"],setup(t,{emit:e}){const r=e;return(e,a)=>({a:o.f(t.doctors,((t,e,a)=>({a:t.icon,b:o.t(t.name),c:t.id,d:o.o((o=>{r("navigate-to-doctor",t)}),t.id)})))})}},e=o._export_sfc(t,[["__scopeId","data-v-438317fb"]]);exports.MiniProgramPage=e;

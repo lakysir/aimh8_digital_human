@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "navigationStyle": "custom",
+  "enableShareAppMessage": true,
+  "usingComponents": {}
+}

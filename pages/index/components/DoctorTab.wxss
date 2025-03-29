@@ -1,0 +1,1 @@
+.doctor-grid.data-v-438317fb{display:flex;flex-wrap:wrap;padding:20rpx;justify-content:space-between}.doctor-item.data-v-438317fb{width:30%;height:300rpx;padding:10rpx;display:flex;flex-direction:column;align-items:center}.doctor-avatar.data-v-438317fb{width:150rpx;height:150rpx;border-radius:50%;margin-bottom:10rpx}.doctor-name.data-v-438317fb{font-size:24rpx;color:#f7f4f4}
