@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/a8349381-4a15-4fff-9b8a-17528e35fd7f
 
 # 三、部署流程
 ### 1、代码部署
-##### 1）git clone https://github.com/lakysir/aimh8_digital_human.git到本地
+##### 1）直接下载代码包到本地并解压(不要git clone https://github.com/lakysir/aimh8_digital_human.git！！！)
 ##### 2）"微信开发者工具"把本代码打开，并且试运行，就可以看到上方产品功能演示
 ### 2、小程序发布（https://mp.weixin.qq.com/上注册微信小程序）
 ##### 1）更改project.config.json中的appid为自己小程序的appid
