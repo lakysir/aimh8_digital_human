@@ -54,7 +54,12 @@ https://github.com/user-attachments/assets/c1f09834-04be-407e-9530-ae4a8b7f02cd
 ##### 2）微信小程序增加插件
 ![输入图片说明](https://oss.aimh8.com/data/res/op2.png "在这里输入图片标题")
 ##### 3）微信小程序开发配置
-![输入图片说明](https://oss.aimh8.com/data/res/op3.png "在这里输入图片标题")
+https://foco-aimh8.oss-cn-hangzhou.aliyuncs.com
+https://oss.aimh8.com
+https://www.aimh8.com
+wss://www.aimh8.com
+![微信截图_20250413213859](https://github.com/user-attachments/assets/6ddf4457-99a7-4f9b-b1aa-02fb31c8e6d0)
+
 
 # 四、技术支持
 ![输入图片说明](https://oss.aimh8.com/data/res/wchat.jpg "在这里输入图片标题")
