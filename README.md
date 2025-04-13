@@ -7,13 +7,11 @@
 
 
 # 一、唇形驱动效果演示
-[去播放视频演示](https://oss.aimh8.com/data/res/v1.mp4)
 
-![输入图片说明](https://oss.aimh8.com/data/res/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250329145006.png "在这里输入图片标题")
+https://github.com/user-attachments/assets/6be27d72-92e0-4ec5-90c9-c8cfe0818aec
 
-[去播放视频演示](https://oss.aimh8.com/data/res/v2.mp4)
+https://github.com/user-attachments/assets/c1f09834-04be-407e-9530-ae4a8b7f02cd
 
-![输入图片说明](https://oss.aimh8.com/data/res/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250329145026.png "在这里输入图片标题")
 
 
 # 二、产品功能演示
