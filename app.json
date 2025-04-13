@@ -1,31 +1,58 @@
 {
   "pages": [
-    "pages/main/index",
-    "pages/index/components/DoctorTab",
-    "pages/index/components/VideoTab",
     "pages/index/index",
-    "pages/publish/index",
-    "pages/transform/index",
-    "pages/brain/index",
-    "pages/profile/index",
-    "pages/video/detail2",
-    "pages/doctor/detail",
-    "pages/publish/edit-copy",
-    "pages/register/index",
-    "pages/digtalhuman/index",
-    "pages/digtalhuman/manage",
-    "pages/digtalhuman/approve",
-    "pages/document/index",
-    "pages/document/detail",
-    "pages/login/index",
-    "pages/video/play",
-    "pages/webview/webview"
+    "pages/market/market",
+    "pages/my_avatars/my_avatars",
+    "pages/script_review/script_review",
+    "pages/profile/profile",
+    "pages/avatar_detail/avatar_detail",
+    "pages/script_editor/script_editor",
+    "pages/my_documents/my_documents",
+    "pages/login/login",
+    "pages/avatar_create/avatar_create",
+    "pages/preview/preview",
+    "pages/agreement/user_agreement",
+    "pages/agreement/privacy_policy",
+    "pages/about/about",
+    "pages/support/index"
   ],
   "window": {
-    "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "",
-    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "AI数字人",
+    "navigationBarBackgroundColor": "#2B85E4",
     "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#2B85E4",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/market/market",
+        "text": "数字人市场",
+        "iconPath": "static/icons/market.png",
+        "selectedIconPath": "static/icons/market-active.png"
+      },
+      {
+        "pagePath": "pages/my_avatars/my_avatars",
+        "text": "我的数字人",
+        "iconPath": "static/icons/my-avatars.png",
+        "selectedIconPath": "static/icons/my-avatars-active.png"
+      },
+      {
+        "pagePath": "pages/script_review/script_review",
+        "text": "文案审核",
+        "iconPath": "static/icons/review.png",
+        "selectedIconPath": "static/icons/review-active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "个人中心",
+        "iconPath": "static/icons/profile.png",
+        "selectedIconPath": "static/icons/profile-active.png"
+      }
+    ]
   },
   "permission": {
     "scope.writePhotosAlbum": {

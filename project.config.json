@@ -12,7 +12,6 @@
     "newFeature": true,
     "bigPackageSizeSupport": true,
     "packNpmRelationList": [],
-    "compileHotReLoad": false,
     "babelSetting": {
       "ignore": [],
       "disablePlugins": [],
@@ -22,7 +21,7 @@
   "compileType": "miniprogram",
   "libVersion": "3.7.6",
   "appid": "wxd6296a3eedd62edf",
-  "projectname": "Aimh8",
+  "projectname": "wechat3.0",
   "condition": {},
   "editorSetting": {
     "tabIndent": "insertSpaces",

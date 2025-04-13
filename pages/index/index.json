@@ -1,8 +1,4 @@
 {
-  "navigationBarTitleText": "uni-app",
-  "navigationStyle": "custom",
-  "usingComponents": {
-    "doctor-tab": "./components/DoctorTab",
-    "video-tab": "./components/VideoTab"
-  }
+  "navigationBarTitleText": "AI数字人平台",
+  "usingComponents": {}
 }

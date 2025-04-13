@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "数字人市场",
+  "usingComponents": {
+    "avatar-card": "../../components/AvatarCard"
+  }
+}
