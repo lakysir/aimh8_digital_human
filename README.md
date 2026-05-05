@@ -33,34 +33,24 @@ https://github.com/user-attachments/assets/c1f09834-04be-407e-9530-ae4a8b7f02cd
 ![image](https://github.com/user-attachments/assets/7042933b-9e4c-456e-ab7f-17b72d59e67a)
 
 ### 2、Web后台管理端
-##### 1） 登录首页www.aimh8.com
+##### 1） 登录首页
 ![image](https://github.com/user-attachments/assets/3fd85cf4-087f-454c-8fe1-69b262931467)
 
 ##### 2） 运营管理-数字人合成和用户管理
 ![image](https://github.com/user-attachments/assets/5012d546-c976-44d3-a00c-ba32f5ca0a5a)
 
-##### 3） 运营管理-数字人合成和用户管理
-![输入图片说明](https://oss.aimh8.com/data/res/web2.png "在这里输入图片标题")
 
 
 # 三、部署流程
 ### 1、代码部署
 ##### 1）直接下载代码包到本地解压缩(请勿git clone xxx下载，会丢失文件)
-##### 2) 到www.aimh8.com注册并登记微信小程序的appid、secret、自定义小程序名称
+##### 2) 登记微信小程序的appid、secret、自定义小程序名称
 ![image](https://github.com/user-attachments/assets/1060608c-d228-404e-b9aa-f767c1f6cdf2)
 ##### 3）"微信开发者工具"把本代码打开，更改project.config.json中的appid，并且试运行，就可以看到上方产品功能演示
 ### 2、小程序发布（https://mp.weixin.qq.com/上注册微信小程序）
 ##### 1）微信小程序申请类目资质
-![输入图片说明](https://oss.aimh8.com/data/res/op1.png "在这里输入图片标题")
 ##### 2）微信小程序增加插件
-![输入图片说明](https://oss.aimh8.com/data/res/op2.png "在这里输入图片标题")
-##### 3）微信小程序开发配置
-https://foco-aimh8.oss-cn-hangzhou.aliyuncs.com
-https://oss.aimh8.com
-https://www.aimh8.com
-wss://www.aimh8.com
 ![微信截图_20250413213859](https://github.com/user-attachments/assets/6ddf4457-99a7-4f9b-b1aa-02fb31c8e6d0)
 
 
 # 四、技术支持
-![输入图片说明](https://oss.aimh8.com/data/res/wchat.jpg "在这里输入图片标题")
