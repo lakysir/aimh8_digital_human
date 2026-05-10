@@ -32,15 +32,6 @@ https://github.com/user-attachments/assets/c1f09834-04be-407e-9530-ae4a8b7f02cd
 ##### 5）文案审批页面
 ![image](https://github.com/user-attachments/assets/7042933b-9e4c-456e-ab7f-17b72d59e67a)
 
-### 2、Web后台管理端
-##### 1） 登录首页
-![image](https://github.com/user-attachments/assets/3fd85cf4-087f-454c-8fe1-69b262931467)
-
-##### 2） 运营管理-数字人合成和用户管理
-![image](https://github.com/user-attachments/assets/5012d546-c976-44d3-a00c-ba32f5ca0a5a)
-
-
-
 # 三、部署流程
 ### 1、代码部署
 ##### 1）直接下载代码包到本地解压缩(请勿git clone xxx下载，会丢失文件)
